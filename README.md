@@ -4,7 +4,7 @@
 
 Projeto da 4ª edição da Semana Next Level Week (NLW) que foi transmitida pelo grupo Rocketseat do dia 22/02/2021 à 26/02/2021, ministrado pelo Diego Fernandes (CTO Rocketseat).
 
-O projeto consiste em criar uma plataforma de desafios "gameficados" onde cada novo desafio concluído o usuário ganha experiência e avança de níveis , essa plataforma foi desenvolvida utilizando o Framework Next JS.
+O projeto consiste em criar uma plataforma de desafios "gameficados" onde cada novo desafio concluído o usuário ganha experiência e avança de níveis, essa plataforma foi desenvolvida utilizando o Framework Next JS.
 
 ## Tecnologias
 
