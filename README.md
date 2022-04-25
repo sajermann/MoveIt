@@ -1,4 +1,4 @@
-![NextLevelWeek](https://lh3.googleusercontent.com/pw/ACtC-3f-7nBBuI0Alh5r4kgAEXknk0FKxnId6R195M_WSfEU7Gfv141FSRR-BxwVtdZJ1t5tqjk8xFAz3PFi9y6ebeGVa9cRhLucmNt64S_VoEFD2F97vtPvYQfKNQD2J3aBvyd2wFPofAAewTpNR-B0Eqpa=w233-h215-no?authuser=0)
+![NextLevelWeek](https://lh3.googleusercontent.com/pw/AM-JKLWHj7jPU0ElZv_cBn4bLYHII2Wo5MZRlZaLEccptCSRX1PnjTijDnUEOJem2xeMzItxAkNW186YHdTr15qiP4hNqvC6eytiZke2Jd_sBtbasDPHfdJ9NNuHUDDLOm1UvgIqtSgqF59BV33BBO806vHL=w233-h215-no?authuser=0)
 
 # 🚀 Move It
 
@@ -20,18 +20,18 @@ O projeto consiste em criar uma plataforma de desafios "gameficados" onde cada n
 
 Execute `npm install` para instalar as dependências.
 
-Rode `npm run dev` na pasta moveit-next (Porta 3000).
+Execute `npm run dev` na pasta moveit-next (Porta 3000).
 
 ### Demonstração
 
 **Tela Inicial No Desktop**
 
-![Inicial](https://lh3.googleusercontent.com/pw/ACtC-3cdE_lAz1s0H5-uxx1j7vymmWiWw6RcHF1GKp2yfpBBLZLuzkE7_BkNiG0MWDDRTJY9ewNvzBCQatItv5zrEC-DkgUxyc6_AOoC2Kuvs5ct6QqE_EvAbvkPRd4-1CFWViVmWdG9YFbitdiZOMsyEOCC=w1176-h770-no?authuser=0)
+![Inicial](https://lh3.googleusercontent.com/pw/AM-JKLUXPhB8rTPhxWnbR_rhW-NY_LItLQ8DaWxt-RW-gTwcI80U2GZFq7yYN8Zu3t1YD8yc7ZwwmNSn2sCDSKGH0OAhgfQZAB38sthRQ8Xwq9sTgYOG5Ujpf6s28nzVgbiaNkYM7QNkXRwPidVlbxOF47mC=w1176-h770-no?authuser=0)
 
 **Tela Novo Desafio**
 
-![NovoDesafio](https://lh3.googleusercontent.com/pw/ACtC-3cghOBz74ymfQm4VAFtDELixYi5i_piVjR-14mFiOgssjAph6wRhSEayqzUiLcHatO2rKk6gInCVXkCeGpMPQgIiGHqqKeFLXHPIQ9fA6C0_gj65Lj-fX7TlRQ75Flcg0mQaRONmMhIKIzr10mCRdOw=w1551-h843-no?authuser=0)
+![NovoDesafio](https://lh3.googleusercontent.com/pw/AM-JKLV4DftXbkEeItkLVwY5NQ1QlsAB6fURhptxo9MB_3Csz3fErl6i3xfZVmOrucGy5Aqlj5gGlHGMLBieaPh1OpQaxsFnhBUIHv7hE2F4eL02AZ9FbCRgyTw4JTNaNBABfUmNU8dV3k12QpAaPricrHzi=w1551-h843-no?authuser=0)
 
 **Tela Level Up**
 
-![LevelUp](https://lh3.googleusercontent.com/pw/ACtC-3f6BX_zhTvxAb_TEU_DzOIQaK20G3x5sbGF8SRt8HSj8BbOODP7A13iqRytIMbvpcuJaIGfnnmsxQquNQrgyqI7zQI9hshBWieLLg7Ss5pn6av-SwK3QxMJd31a1wMyOdTi9x0TdZR7NqA1EWUOb4zz=w1173-h761-no?authuser=0)
+![LevelUp](https://lh3.googleusercontent.com/pw/AM-JKLVoEQeGabhOe22iM2636ho_-R0UY30a8-f-_XtwqMZ3WxiTIgdUy55KAMLfpwX0JVqfEbr6wc8q1kV9R5xOIGImgb7zr0rPLJw5cRsG9-52DHEG5KcEh2jN8uqh-kEGKxCN6o_-K_4ZUrlaub2U5bmv=w1173-h761-no?authuser=0)
